@@ -1,3 +1,6 @@
 [submodule "C-Piscine/Shell00"]
 	path = C-Piscine/Shell00
 	url = git@github.com:mujalab/C-Piscine-Shell00.git
+[submodule "C-Piscine/C00"]
+	path = C-Piscine/C00
+	url = git@github.com:mujalab/C-Piscine-C00.git
