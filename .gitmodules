@@ -8,5 +8,5 @@
 	path = C-Piscine/C00
 	url = git@github.com:mujalab/C-Piscine-C00.git
 [submodule "C-Piscine/C00"]
-	path = C-Piscine/C00
+	path = C-Piscine/C01
 	url = git@github.com:mujalab/C-Piscine-C01.git
